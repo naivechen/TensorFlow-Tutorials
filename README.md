@@ -11,15 +11,15 @@
 
 ## 教程
 
-1. Simple Linear Model ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/01_Simple_Linear_Model.ipynb))
+1. 简单线性模型 ([Notebook](https://github.com/naivechen/TensorFlow-Tutorials/blob/master/01_%E7%AE%80%E5%8D%95%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B.ipynb))
 
-2. Convolutional Neural Network ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb))
+2. 卷积神经网络 ([Notebook](https://github.com/naivechen/TensorFlow-Tutorials/blob/master/02_%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb))
 
-3. Pretty Tensor ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/03_PrettyTensor.ipynb))
+3. Pretty Tensor ([Notebook](https://github.com/naivechen/TensorFlow-Tutorials/blob/master/03_PrettyTensor.ipynb))
 
 3-B. Layers API ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/03B_Layers_API.ipynb))
 
-4. Save & Restore ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/04_Save_Restore.ipynb))
+4. 保存和恢复模型 ([Notebook](https://github.com/naivechen/TensorFlow-Tutorials/blob/master/04_%E4%BF%9D%E5%AD%98%E5%92%8C%E6%81%A2%E5%A4%8D%E6%A8%A1%E5%9E%8B.ipynb))
 
 5. Ensemble Learning ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/05_Ensemble_Learning.ipynb))
 
